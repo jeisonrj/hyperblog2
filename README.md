@@ -4,7 +4,7 @@ Un blog increible para desarrolar mi aprendizaje
 
 > - niñita
 
-##En este curso veremos de todo:
+## En este curso veremos de todo:
 * Todos los comandos de Git
 * El flujo de trabajo en Github
 * El verdader amor por las buenas practicas
