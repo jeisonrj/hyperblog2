@@ -4,5 +4,10 @@ Jeison Ramos tiene 22 años nació en Colombia,
 viviendo en todo el mundo
 
 Master 1
+<<<<<<< HEAD
 Master 2
+=======
+Experimento 1
+
+>>>>>>> exp1
 Hoy hablaremos de su historia 
